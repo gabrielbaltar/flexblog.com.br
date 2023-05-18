@@ -26,4 +26,4 @@ Site feito para treinar praticas de Flexbox.
 
 ## 🔖 Layout
 
-Link para acessar o projeto [Link do projeto target="blank"](https://gabrielbaltar.github.io/flexblog.com.br/)
+Link para acessar o projeto [Link do projeto target="blank"](https://gabrielbaltar.github.io/flexblog.com.br/){:target="_blank"}
